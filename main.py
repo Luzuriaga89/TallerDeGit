@@ -3,3 +3,6 @@ for i in 'Alberto':
 
 for j in "lkjl":
     print(j)
+
+    for x in "asdfasd":
+        print(x)
